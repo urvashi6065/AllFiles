@@ -1,0 +1,140 @@
+[
+  {
+    "cateId": 1,
+    "categories": "Alone",
+    "emoji": "assets/Emoji/1.png",
+    "Quotes": [
+      {
+        "quotes": "\"I think it's very healthy to spend time alone. You need to know how to be alone and not be defined by another person.\" - Oscar Wilde\n\n",
+        "image": "assets/alone/img.png"
+      },
+      {
+        "quotes": "\"I used to think that the worst thing in life was to end up alone. It's not. The worst thing in life is to end up with people who make you feel alone.\" - Robin Williams",
+        "image": "assets/alone/img_1.png"
+      },
+      {
+        "quotes": "\"The soul that sees beauty may sometimes walk alone.\" - Johann Wolfgang von Goethe\n\n",
+        "image": "assets/alone/img_2.png"
+      },
+      {
+        "quotes": "\"Loneliness adds beauty to life. It puts a special burn on sunsets and makes night air smell better.\" - Henry Rollins\n\n",
+        "image": "assets/alone/img_3.png"
+      }
+    ]
+  },
+  {
+    "cateId": 2,
+    "categories": "Angry",
+    "emoji": "assets/Emoji/2.png",
+    "Quotes": [
+      {
+        "quotes": "\"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.\" - Mark Twain",
+        "image": "assets/Angry/img.png"
+      },
+      {
+        "quotes": "\"For every minute you remain angry, you give up sixty seconds of peace of mind.\" - Ralph Waldo Emerson\n\n",
+        "image": "assets/Angry/img_1.png"
+      },
+      {
+        "quotes": "\"Anger, if not restrained, is frequently more hurtful to us than the injury that provokes it.\" - Lucius Annaeus Seneca",
+        "image": "assets/Angry/img_2.png"
+      },
+      {
+        "quotes": "\"Anger is like a storm rising up from the bottom of your consciousness. When you feel it coming, turn your focus to your breath.\" - Thich Nhat Hanh",
+        "image": "assets/Angry/img_3.png"
+      }
+    ]
+  },
+  {
+    "cateId": 3,
+    "categories": "Anniversary",
+    "emoji": "assets/Emoji/3.png",
+    "Quotes": [
+      {
+        "quotes": "\"The secret of a happy marriage is finding the right person. You know they're right if you love to be with them all the time.\" - Julia Child",
+        "image": "assets/Anniversary/img.png"
+      },
+      {
+        "quotes": "\"A successful marriage requires falling in love many times, always with the same person.\" - Mignon McLaughlin\n\n",
+        "image": "assets/Anniversary/img_1.png"
+      },
+      {
+        "quotes": "\"In all the world, there is no heart for me like yours. In all the world, there is no love for you like mine.\" - Maya Angelou\n\n",
+        "image": "assets/Anniversary/img_2.png"
+      },
+      {
+        "quotes": "\"The greatest happiness you can give someone is knowing that they are loved and appreciated.\" - Unknown\n\n",
+        "image": "assets/Anniversary/img_3.png"
+      }
+    ]
+  },
+  {
+    "cateId": 4,
+    "categories": "Attitude",
+    "emoji": "assets/Emoji/4.png",
+    "Quotes": [
+      {
+        "quotes": "\"I can't change the direction of the wind, but I can adjust my sails to always reach my destination.\" - Jimmy Dean",
+        "image": "assets/Attitude/img.png"
+      },
+      {
+        "quotes": "\"The greatest discovery of all time is that a person can change their future by merely changing their attitude.\" - Oprah Winfrey",
+        "image": "assets/Attitude/img_1.png"
+      },
+      {
+        "quotes": "\"Attitude is a little thing that makes a big difference.\" - Winston Churchill\n\n",
+        "image": "assets/Attitude/img_2.png"
+      },
+      {
+        "quotes": "\"Life is 10% what happens to us and 90% how we react to it.\" - Charles R. Swindoll",
+        "image": "assets/Attitude/img_3.png"
+      }
+    ]
+  },
+  {
+    "cateId": 5,
+    "categories": "Aewsome",
+    "emoji": "assets/Emoji/5.png",
+    "Quotes": [
+      {
+        "quotes": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\" - Winston Churchill",
+        "image": "assets/Aewsome/img.png"
+      },
+      {
+        "quotes": "\"The only way to do great work is to love what you do.\" - Steve Jobs\n\n",
+        "image": "assets/Aewsome/img_1.png"
+      },
+      {
+        "quotes": "\"Happiness is not something ready-made. It comes from your own actions.\" - Dalai Lama\n\n",
+        "image": "assets/Aewsome/img_2.png"
+      },
+      {
+        "quotes": "\"The only limit to our realization of tomorrow will be our doubts of today.\" - Franklin D. Roosevelt\n\n",
+        "image": "assets/Aewsome/img_3.png"
+      }
+    ]
+  },
+  {
+    "cateId": 6,
+    "categories": "Beautiful",
+    "emoji": "assets/Emoji/6.png",
+    "Quotes": [
+      {
+        "quotes": "khhudgsjhdgcjishgdfjihs",
+        "image": null
+      },
+      {
+        "quotes": "khhudgsjhdgcjishgdfjihs",
+        "image": null
+      },
+      {
+        "quotes": "khhudgsjhdgcjishgdfjihs",
+        "image": null
+      },
+      {
+        "quotes": "khhudgsjhdgcjishgdfjihs",
+        "image": null
+      }
+    ]
+  }
+]
